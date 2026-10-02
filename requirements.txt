@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+torchvision
+streamlit
+undetected-chromedriver
+selenium
+matplotlib
+seaborn
+joblib
